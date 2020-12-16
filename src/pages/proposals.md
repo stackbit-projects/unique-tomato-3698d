@@ -3,7 +3,7 @@ title: Proposals
 hide_title: true
 excerpt: ''
 sections:
-  - title: lorem-ipsum
+  - title: Proposals
     section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
