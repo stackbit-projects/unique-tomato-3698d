@@ -6,7 +6,7 @@
         "title": "Connelly Proposal Site",
         "tagline": "Connelly & Company Property Management ",
         "profile_img": "images/connelly_logo_retina-1.png",
-        "background": "dark",
+        "background": "light",
         "has_nav": true,
         "nav_links": [
             {
