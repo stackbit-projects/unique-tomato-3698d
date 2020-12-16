@@ -1,7 +1,7 @@
 ---
 title: Proposals
 hide_title: true
-excerpt: lorem-ipsum
+excerpt: ''
 sections: []
 template: advanced
 ---
