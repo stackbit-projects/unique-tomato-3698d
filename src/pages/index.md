@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Connelly & Company
 hide_title: true
 sections:
   - section_id: hero
