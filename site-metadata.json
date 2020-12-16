@@ -1,6 +1,6 @@
 {
     "description": "",
-    "layout_style": "simple",
+    "layout_style": "overflow",
     "palette": "orange",
     "header": {
         "title": "Connelly Proposal Site",
